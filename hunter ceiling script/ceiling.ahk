@@ -10,3 +10,6 @@ Loop, %LOOP_TIMES%
 
 }
 
+
+RShift::
+ExitApp
