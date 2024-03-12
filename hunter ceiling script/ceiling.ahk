@@ -9,7 +9,7 @@ Loop, %LOOP_TIMES%
    Sleep, 10
 
 }
-
+return
 
 RShift::
 ExitApp

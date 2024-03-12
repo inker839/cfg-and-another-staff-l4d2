@@ -18,4 +18,13 @@ HOW TO USE THIS ULTRA DIF SCRIPT?
 
 No holding ctrl in air*
 
+rshift - close script.
+
+Note: 
+If you have sensitivity 3.3 change in
+SPEED_Y := 411 ; 
+to 
+SPEED_Y := 694 ; 
+If you have sensitivity 1.5
+change 411 to 1530
 
