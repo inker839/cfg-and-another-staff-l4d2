@@ -1,8 +1,7 @@
 yo my dear cheaters >.<
 
 i tried to find hunter ceiling script but... i found nothing.
-so i decided to create my own script bcuz ai (like always) cant help u with scripts
-To use script you need 
+so i decided to create my own script bcuz ai (like always) cant help u with scripts. To use script you need:
 
 1) Download https://www.autohotkey.com
 2) Download my script lol
