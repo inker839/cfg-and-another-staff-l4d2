@@ -5,5 +5,6 @@ yo, if u reading this - u wanna know how to use script
 3) Start script
 4) While pressed m1 it is spamming m1
 5) Right shift to exit app
+6) B - to pause/unpause script
 
-//note also can be used 4 hunter ceiling and in cs2
+//this script can be used in any game

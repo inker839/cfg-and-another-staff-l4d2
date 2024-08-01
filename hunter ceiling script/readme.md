@@ -18,6 +18,7 @@ HOW TO USE THIS ULTRA DIF SCRIPT?
 No holding ctrl in air*
 
 rshift - close script.
+b - pause script.
 
 Note: 
 If you have another sensitivity replace with another value

@@ -8,3 +8,7 @@ return
 RShift::
 ExitApp
 
+b:: 
+Suspend
+return
+

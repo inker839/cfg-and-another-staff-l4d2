@@ -11,5 +11,9 @@ Loop, %LOOP_TIMES%
 }
 return
 
+b::
+Suspend
+return
+
 RShift::
 ExitApp
